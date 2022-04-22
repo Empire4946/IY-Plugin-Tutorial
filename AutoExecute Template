@@ -1,0 +1,7 @@
+-- Code Here
+
+return {
+    ["PluginName"] = "PLUGIN NAME",
+    ["PluginDescription"] = "THE DESCRIPTION OF THE PLUGIN",
+    ["Commands"] = {}
+}
